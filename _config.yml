@@ -10,7 +10,7 @@ title: Steven Cho
 tagline: "My Personal Website"
 description: "Cooper Union for the Advancement of Science and Art '23"
 url:
-baseurl: /
+baseurl: joongyeoncho0823.github.io
 
 gems: [jekyll-paginate]
 paginate: 5
