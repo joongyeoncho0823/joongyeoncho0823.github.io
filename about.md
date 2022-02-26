@@ -15,7 +15,7 @@ Hi! I am an undergraduate student at the Cooper Union for the Advancement of Sci
 - [Data Structures & Algorithms II](https://cooper.edu/engineering/courses/electrical-and-computer-engineering-undergraduate/ece-365) (C++)
 - [Data Structures & Algorithms I](https://cooper.edu/engineering/courses/electrical-and-computer-engineering-undergraduate/ece-264) (C++)
 - [Signal Processing](https://cooper.edu/engineering/courses/electrical-and-computer-engineering-undergraduate/ece-211) (Matlab)
-- [Computer Architecture](https://cooper.edu/engineering/courses/electrical-and-computer-engineering-undergraduate/ece-251) (Assembly)
+- [Computer Architecture](https://cooper.edu/engineering/courses/electrical-and-computer-engineering-undergraduate/ece-251)
 
 ## Extra Curriculars
 
