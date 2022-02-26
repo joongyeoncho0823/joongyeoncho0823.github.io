@@ -1,0 +1,23 @@
+# Dependencies
+markdown: redcarpet
+highlighter: pygments
+
+# Permalinks
+permalink: pretty
+
+# Setup
+title: Steven Cho
+tagline: "My Personal Website"
+description: "Cooper Union for the Advancement of Science and Art '23"
+url:
+baseurl: /
+
+gems: [jekyll-paginate]
+paginate: 5
+paginate_path: "page:num"
+
+# Custom vars
+version: 2.1.0
+
+github:
+  repo: https://joongyeoncho0823.github.io
