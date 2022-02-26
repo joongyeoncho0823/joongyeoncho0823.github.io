@@ -9,8 +9,12 @@ permalink: pretty
 title: Steven Cho
 tagline: "My Personal Website"
 description: "Cooper Union for the Advancement of Science and Art '23"
-url:
+url: https://joongyeoncho0823.github.io
 baseurl: /
+
+author:
+  name: "Joongyeon Cho"
+  url: "https://github.com/joongyeoncho0823"
 
 gems: [jekyll-paginate]
 paginate: 5
@@ -20,4 +24,4 @@ paginate_path: "page:num"
 version: 2.1.0
 
 github:
-  repo: https://joongyeoncho0823.github.io
+  repo: https://github.com/joongyeoncho0823/joongyeoncho0823.github.io
